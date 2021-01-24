@@ -24,7 +24,7 @@ You can check my blog [here](https://hive.blog/@diazrock/posts).
 </a>
 
 <a href="https://github.com/DiazRock/Diaz_Chord">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=diazrock&repo=https://github.com/DiazRock/Diaz_Chord&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=diazrock&repo=https:Diaz_Chord&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
