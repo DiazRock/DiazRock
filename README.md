@@ -27,6 +27,18 @@ You can check my blog [here](https://hive.blog/@diazrock/posts).
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=diazrock&repo=Diaz_Chord&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/diazrock">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diazrock&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/diazrock">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=diazrock&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
 <br>
 <br>
 
