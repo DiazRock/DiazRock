@@ -43,6 +43,10 @@ You can check my blog [here](https://hive.blog/@diazrock/posts).
 <br>
 <br>
 
+## My codersrank status
+
+![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=diazrock)
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue&logoColor=white&color=4AB197)
