@@ -32,15 +32,26 @@ You can check my blog [here](https://hive.blog/@diazrock/posts).
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=Nuxt&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vuex-informational?style=flat&logo=Vuex&logoColor=white&color=4AB197)
+
+<br>
+<br>
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
 <br>
 
 <a href="https://github.com/DiazRock/Diaz_Chord">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=diazrock&repo=Diaz_Chord&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+<br>
+<br>
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-zmq-informational?style=flat&logo=zmq&logoColor=white&color=4AB197)
 
 ## &#x1f4c8; GitHub Stats
 
