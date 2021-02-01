@@ -51,7 +51,7 @@ You can check my blog [here](https://hive.blog/@diazrock/posts).
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-zmq-informational?style=flat&logo=zmq&logoColor=white&color=4AB197)
+![https://pyzmq.readthedocs.io/en/latest/api/zmq.html](https://img.shields.io/badge/Code-zmq-informational?style=flat&logo=zmq&logoColor=white&color=4AB197)
 
 ## &#x1f4c8; GitHub Stats
 
