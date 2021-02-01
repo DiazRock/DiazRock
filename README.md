@@ -27,6 +27,7 @@ You can check my blog [here](https://hive.blog/@diazrock/posts).
 
 <br>
 <br>
+
 ![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=Nuxt&logoColor=white&color=4AB197)
