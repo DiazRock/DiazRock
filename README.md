@@ -21,6 +21,11 @@ You can check my blog [here](https://hive.blog/@diazrock/posts).
 <br>
 <br>
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Pytest-informational?style=flat&logo=pytest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ply-informational?style=flat&logo=ply&logoColor=white&color=4AB197)
+
+
 <a href="https://github.com/bloque64/bloque64_web">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bloque64&repo=bloque64_web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -51,7 +56,21 @@ You can check my blog [here](https://hive.blog/@diazrock/posts).
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![https://pyzmq.readthedocs.io/en/latest/api/zmq.html](https://img.shields.io/badge/Code-zmq-informational?style=flat&logo=zmq&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-pyzmq-informational?style=flat&logo=pyzmq&logoColor=white&color=4AB197)
+
+<br>
+<br>
+
+<a href="https://github.com/CrownCuba/multichain">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CrownCuba&repo=multichain&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ginkgo-informational?style=flat&logo=ginkgo&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 
 ## &#x1f4c8; GitHub Stats
 
