@@ -90,43 +90,5 @@ You can check my blog [here](https://hive.blog/@diazrock/posts).
 <br>
 <br>
 
-## My codersrank status
-
-![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=diazrock)
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=Nuxt&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Vuex-informational?style=flat&logo=Vuex&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Prolog-informational?style=flat&logo=Prolog&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Test-Pytest-informational?style=flat&logo=Pytest&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
-
-</details>
-
-<br>
 
 
