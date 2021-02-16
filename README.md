@@ -10,68 +10,6 @@ I'm Alejandro Díaz Roque (DiazRock), a software engineer, and a creative coder.
 You can check my blog [here](https://hive.blog/@diazrock/posts).
 
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/DiazRock/cool-compiler-2020">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=diazrock&repo=cool-compiler-2020&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Pytest-informational?style=flat&logo=pytest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ply-informational?style=flat&logo=ply&logoColor=white&color=4AB197)
-
-
-<a href="https://github.com/bloque64/bloque64_web">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bloque64&repo=bloque64_web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=Nuxt&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Vuex-informational?style=flat&logo=Vuex&logoColor=white&color=4AB197)
-
-<br>
-<br>
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-
-<br>
-
-<a href="https://github.com/DiazRock/Diaz_Chord">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=diazrock&repo=Diaz_Chord&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-pyzmq-informational?style=flat&logo=pyzmq&logoColor=white&color=4AB197)
-
-<br>
-<br>
-
-<a href="https://github.com/CrownCuba/multichain">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CrownCuba&repo=multichain&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ginkgo-informational?style=flat&logo=ginkgo&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
