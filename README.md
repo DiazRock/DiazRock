@@ -7,8 +7,6 @@ Hey there 👋
 
 I'm Alejandro Díaz Roque (DiazRock), a software engineer, and a creative coder. I love the idea of been part of the future of technology, and I prepare my self, to join that mission. Also I'm a passionate of the world of cryptocurrencies and free code.
 
-You can check my blog [here](https://hive.blog/@diazrock/posts).
-
 
 ## &#x1f4c8; GitHub Stats
 
